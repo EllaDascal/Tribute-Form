@@ -17,10 +17,13 @@ This website serves as a tribute to Leonardo da Vinci, providing information abo
 
 - HTML
 - CSS
-- JavaScript
+
 
 ## Installation
 
 To run this website locally, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
+2. Download zip
+3. open index.html
+   
