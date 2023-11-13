@@ -1,0 +1,111 @@
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  #main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  }
+  
+  
+  #title {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+ 
+  #img-div {
+    text-align: center;
+    margin-bottom: 20px;
+    display:block;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+  
+  }
+ 
+   #image-mona-lisa {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+  }
+ 
+   p b + p {
+    text-align: justify;
+  }
+  
+  
+  
+  #img-caption {
+    font-style: italic;
+    color: #777;
+    text-align: center;
+    display: block;
+  }
+  
+ 
+  #tribute-info {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+
+  p b {
+    font-weight: bold;
+  }
+  
+
+  #tribute-link {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+    margin: 20px auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  #tribute-link:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
